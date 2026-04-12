@@ -20,13 +20,9 @@ Choisissez l'un des 2 sites où vous voulez voter.
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="402"><figcaption></figcaption></figure>
 
-<details>
-
-<summary>Top Serveur</summary>
-
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="354"><figcaption></figcaption></figure>
-
-</details>
+{% hint style="danger" %}
+Pour recevoir vos récompenses veuillez utiliser votre pseudo EXACT
+{% endhint %}
 
 <details>
 
@@ -36,9 +32,9 @@ Choisissez l'un des 2 sites où vous voulez voter.
 
 </details>
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt="" width="418"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Un message vous confirme que votre vote à bien été pris en compte vous en recevez un I-G aussi
