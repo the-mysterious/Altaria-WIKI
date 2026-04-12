@@ -20,9 +20,9 @@ La documentation est organisée en chapitres :
 
 #### SOS
 
-* Discord
-[Discord](https://discord.gg/kpZktjnXy6)
-[Web-site](https://altaria-mc.fr)
+* [Discord](https://discord.gg/kpZktjnXy6)
+
+* [Web-site](https://altaria-mc.fr)
 
 ***
 
