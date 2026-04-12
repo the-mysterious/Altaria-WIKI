@@ -1,4 +1,15 @@
 # Table of contents
 
-* [Altaria-WIKI](README.md)
-* [111](111.md)
+* [📘 Page](README.md)
+
+## ℹ️ Information générale
+
+* [Page 1](information-generale/page-1.md)
+
+## 🛂 introduction
+
+## 🎮 Gameplay
+
+* [Page 2](gameplay/page-2.md)
+
+## 🆘 sos
