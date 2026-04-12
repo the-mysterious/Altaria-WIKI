@@ -41,7 +41,7 @@ Il s'agit du rangs de base quand vous vous connecter sur le serveur pour la prem
 **Avantages:**
 
 * kit: Vagabond ( toute les semaines)&#x20;
-* accès au /back
+* accès au **/back**
 * 1 Parchemin de quête <mark style="color:blue;">**RARE**</mark>
 * <mark style="color:$warning;">**1 enchantement personnalisé au hasard**</mark>
 * 1 clés rare
@@ -62,7 +62,7 @@ Il s'agit du rangs de base quand vous vous connecter sur le serveur pour la prem
 **Avantages:**
 
 * kit Baroudeur (disponible toute les semaine)
-* accès au /sell hand
+* accès au **/sell hand**
 * 1 parchemin de quête <mark style="color:purple;">**Epique**</mark>
 * Multiplication de vente du /shop de <mark style="color:green;">**X1.1**</mark>
 * 2 clés rares
@@ -80,8 +80,8 @@ Il s'agit du rangs de base quand vous vous connecter sur le serveur pour la prem
 * 4 bloc de lapis-lazuli\
   \
   **Avantages:**
-* kit Artisan ( disponible toute les semaines)
-* accès au /disposal ( allias: /trash) \[vous permet d'ouvrir un menu de destruction des items]
+* kit Artisan (disponible toute les semaines)
+* accès au **/disposal** ( allias: **/trash**) \[vous permet d'ouvrir un menu de destruction des items]
 * 1 parchemin de quêtes <mark style="color:yellow;">**légendaire**</mark>
 * <mark style="color:$warning;">**2 enchantement personnalisés aléatoire**</mark>&#x20;
 * Multiplication du prix de vente dans le shop de <mark style="color:$success;">**X1.2**</mark>
@@ -104,7 +104,7 @@ Il s'agit du rangs de base quand vous vous connecter sur le serveur pour la prem
 **Avantages:**
 
 * kit Erudit (disponible toute les semaine)
-* accès au /enderchest ( allias: /ec) \[vous ouvre votre enderchest]
+* accès au **/enderchest** ( allias: **/ec**) \[vous ouvre votre enderchest]
 * Multiplication du prix de vente dans le shop de <mark style="color:$success;">**X1.3**</mark>
 * 10 shops de joueurs max (voir: [les-coffres-de-ventes.md](les-coffres-de-ventes.md "mention") )
 * 2 clés épique
@@ -125,8 +125,8 @@ Il s'agit du rangs de base quand vous vous connecter sur le serveur pour la prem
   \
   **Avantages:**
 * kit écuyer (disponible toute les semaine)
-* accès au /repair (vous permet de repair l'outils / armure dans votre main)
-* accès au /ptime et /pweather -> Les modification ne s'appliquent que à vous
+* accès au /**repair** (vous permet de repair l'outils / armure dans votre main)
+* accès au **/ptime** et **/pweather** -> Les modification ne s'appliquent que à vous
 * 2 parchemins de quêtes <mark style="color:yellow;">**légendaire**</mark>
 * <mark style="color:$warning;">**3 enchantement personnalisés aléatoire**</mark>&#x20;
 * Multiplication du prix de vente dans le shop de <mark style="color:$success;">X1.4</mark>
