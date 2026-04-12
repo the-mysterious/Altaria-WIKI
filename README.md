@@ -19,8 +19,7 @@ Ce guide a pour objectif de :
 La documentation est organisée en chapitres :
 
 #### SOS
-![]
-.(https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Discord_logo.svg/1280px-Discord_logo.svg.png)
+
 
 * [Discord](https://discord.gg/kpZktjnXy6)
 
