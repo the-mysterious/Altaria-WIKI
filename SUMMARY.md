@@ -14,7 +14,7 @@
 
 ## 🎮 Gameplay
 
-* [Page 1](gameplay/page-1.md)
+* [Les parchemins](gameplay/les-parchemins.md)
 * [Les commandes](gameplay/les-commandes.md)
 * [Les rangs F2W](gameplay/les-rangs-f2w.md)
 * [💳 Les coffres de ventes](gameplay/les-coffres-de-ventes.md)
