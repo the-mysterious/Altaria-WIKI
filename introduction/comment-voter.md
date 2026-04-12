@@ -12,7 +12,7 @@ Pour commencer, veuillez vous rendre sur le site : [https://altaria-mc.fr/vote](
 
 Une fois dessus, vous devrez vous créer un compte OU vous connecter dans le cas échéant.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Etape 2️⃣:
 
@@ -38,7 +38,7 @@ Choisissez l'un des 2 sites où vous voulez voter.
 
 <figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (6).png" alt="" width="418"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt="" width="418"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Un message vous confirme que votre vote à bien été pris en compte vous en recevez un I-G aussi
@@ -54,6 +54,6 @@ Le timer vous indique dans combien de temps vous pourrez revoter
 
 #### Récompenses:
 
-<figure><img src="../.gitbook/assets/image (7).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Utilise ta clé de vote sur le box pour obtenir une récompense aléatoire.

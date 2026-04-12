@@ -16,6 +16,7 @@
 
 * [Les rangs F2W](gameplay/les-rangs-f2w.md)
 * [💳 Les coffres de ventes](gameplay/les-coffres-de-ventes.md)
+* [Les players-warps](gameplay/les-players-warps.md)
 
 ## 🏙️ La ville
 
@@ -29,3 +30,4 @@
 ***
 
 * [Discord](discord.md)
+* [Le site web](le-site-web.md)
