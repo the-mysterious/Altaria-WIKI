@@ -14,7 +14,8 @@
 
 ## Artémis&#x20;
 
-* [Les PNJ](artemis/les-pnj.md)
+* [Les PNJ](artemis/les-pnj/README.md)
+  * [Maire d'Artémis](artemis/les-pnj/maire-dartemis.md)
 * [Les parchemins](artemis/les-parchemins.md)
 
 ## 🎮 Gameplay
