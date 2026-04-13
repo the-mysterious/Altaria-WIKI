@@ -19,13 +19,13 @@ Chacun contient une série de quêtes variées à accomplir pour obtenir des ré
 
 ## Les niveaux de raretés
 
-| Rareté     | Coûts (en nv XP) |
-| ---------- | ---------------- |
-| Commun     | **3**            |
-| Rare       | **5**            |
-| Epique     | **10**           |
-| Légendaire | **??**           |
-| Mystères   | **??**           |
+| Rareté     | Coûts (en nv XP) | Obtention                                  |
+| ---------- | ---------------- | ------------------------------------------ |
+| Commun     | **3**            | Via le PNJ                                 |
+| Rare       | **5**            | Via le PNJ                                 |
+| Epique     | **10**           | Via le PNJ                                 |
+| Légendaire | **??**           | Divers loot (donjons, rank, crates ect...) |
+| Mystères   | **??**           | On DEV                                     |
 
 
 
@@ -42,7 +42,11 @@ Chaque parchemin contient un nombre aléatoire d'étapes composées de quêtes v
 * Et bien d'autre vous attendent
 
 {% hint style="info" %}
-Tu peux prendre plusieur parchemins en même temps mais si tu à la même quêtes sur des parchemin alors que 1 avanceras et l'autre viendras après
+Tu peux prendre plusieurs parchemins en même temps mais si tu à la même quêtes sur des parchemin alors que 1 avanceras et l'autre viendras après
+{% endhint %}
+
+{% hint style="info" %}
+Devant chaque étape se trouve une étoile de couleur représentant le niveau de difficulter de l'étape. Plus les étapes sont dur plus la récompense et élever
 {% endhint %}
 
 ## Les Cristaux
