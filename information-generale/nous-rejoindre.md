@@ -17,5 +17,22 @@ description: >-
 
 **Lance ton minecraft**
 
+**Dans le menu principal, clique sur multijoueur**
 
+<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
 
+**Clique sur ajouter un serveur**
+
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+**Remplie les champs demander**
+
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Pense à voter sur le serveur pour obtenir des récompense: [comment-voter.md](../introduction/comment-voter.md "mention")
+{% endhint %}
+
+{% hint style="warning" %}
+Un problème n'hésite pas regarder la catégorie [Broken link](/broken/pages/WVKwPx1bsLQ4vlxVaKDe "mention")
+{% endhint %}
