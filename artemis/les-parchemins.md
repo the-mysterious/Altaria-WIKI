@@ -7,7 +7,7 @@ icon: scroll
 
 # Les parchemins
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## kesako ??
 
@@ -31,7 +31,7 @@ Chacun contient une série de quêtes variées à accomplir pour obtenir des ré
 
 ## Les quêtes
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="377"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="377"><figcaption></figcaption></figure>
 
 Chaque parchemin contient un nombre aléatoire d'étapes composées de quêtes variées telles que:
 

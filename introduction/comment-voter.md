@@ -18,7 +18,7 @@ Une fois dessus, vous devrez vous créer un compte OU vous connecter dans le cas
 
 Choisissez l'un des 2 sites où vous voulez voter.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="402"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="402"><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 Pour recevoir vos récompenses veuillez utiliser votre pseudo EXACT
@@ -29,6 +29,14 @@ Pour recevoir vos récompenses veuillez utiliser votre pseudo EXACT
 <summary>Serveur Privés</summary>
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary>Top serveur</summary>
+
+<figure><img src="../.gitbook/assets/image.png" alt="" width="344"><figcaption></figcaption></figure>
 
 </details>
 

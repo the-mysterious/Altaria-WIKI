@@ -23,7 +23,7 @@ description: >-
 
 **Clique sur ajouter un serveur**
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Remplie les champs demander**
 

@@ -15,7 +15,7 @@ Connectez vous à votre compte, ou créez en un si vous n'en avez pas encore.
 
 Prenez connaissance des règles du serveur, elle s'appliquent également ici. Puis choisissez une des catégorie pour votre demande.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Une fois la catégorie choisi il vous suffit de cliquer sur créer.
 
