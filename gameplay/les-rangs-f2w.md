@@ -137,33 +137,121 @@ Il s'agit du rangs de base quand vous vous connecter sur le serveur pour la prem
 {% endtab %}
 
 {% tab title="Chevalier" %}
-**Prérequis:**\
-\
+**Prérequis:**
+
+* Argent: 1 600 000$
+* 48 dimant
+* 2 nether star
+* 16 totem d'immortalité
+
 **Avantages:**
+
+* kit chevalier
+* accès au /feed - /top - /bottom&#x20;
+* 3 parchemins de quête <mark style="color:yellow;">**légendaire**</mark>
+* Multiplication du prix de vente dans le shop de <mark style="color:$success;">**X1.5**</mark>
+* <mark style="color:$warning;">**4 enchantement personnalisés aléatoire**</mark>&#x20;
+* 4 clés épique
+* 2 warp joueur (/pwarp) offert
+* 500 PM
+* 8 homes
 {% endtab %}
 
 {% tab title="Baron" %}
-**Prérequis:**\
-\
+**Prérequis:**
+
+* **Argent: 4 000 000**
+* **64 lingot de netherite**
+* **4 nether star**
+* **8 bloc d'émeraude**
+* **16 patte de lapin**
+
 **Avantages:**
+
+* kit baron
+* accès au /craft - /ext&#x20;
+* 4 parchemin de quêtes <mark style="color:yellow;">**légendaire**</mark>
+* <mark style="color:$warning;">**5 enchantement personnalisés aléatoire**</mark>&#x20;
+* Multiplication du prix de vente dans le shop de <mark style="color:$success;">**X1.6**</mark>
+* 7 métiers MAX
+* 5 clés épique
+* 1 clé rare
+* 3 warp joueur (/pwarp) offert
+* 550 PM
+* 9 homes
 {% endtab %}
 
 {% tab title="Comte" %}
-**Prérequis:**\
-\
+**Prérequis:**
+
+* **Argent: 5 500 000$**
+* **3 balise**
+* **8 nether star**
+* **96 lingots de netherite**
+* **32 bloc d'améthyste**
+
 **Avantages:**
+
+* kit Comte
+* accès au /condense&#x20;
+* Vous pouvez créer 2 villes
+* 4 parchemin de quêtes <mark style="color:yellow;">**légendaire**</mark>
+* 1 parchemin de quêtes spécial
+* <mark style="color:$warning;">**5 enchantement personnalisés aléatoire**</mark>&#x20;
+* Multiplication du prix de vente dans le shop de <mark style="color:$success;">**X1.65**</mark>
+* 8 métiers max
+* 5 clés épique
+* 15 shops joueurs max
+* 600 PM
+* 10 homes
 {% endtab %}
 
 {% tab title="Marquis" %}
-&#x20;**Prérequis:**\
-\
+&#x20;**Prérequis:**
+
+* **Argent: 8 000 000$**
+* **4 balise**
+* **12 nether star**
+* **128 lingots de netherite**
+* **64 membrane de phantom**
+
+
+
 **Avantages:**
+
+* kit Marquis
+* accès au /heal
+* 5 parchemin de quêtes <mark style="color:yellow;">**légendaire**</mark>
+* <mark style="color:$warning;">**6 enchantement personnalisés aléatoire**</mark>&#x20;
+* Multiplication du prix de vente dans le shop de <mark style="color:$success;">**X1.75**</mark>
+* 6 clés épique
+* 2 clés rare
+* 4 warp joueur (/pwarp) offert
+* 650 PM
+* 11 homes
 {% endtab %}
 
 {% tab title="Archiduc" %}
-**Prérequis:**\
-\
+**Prérequis:**
+
+* **Argent: 12 000 000$**
+* **16 nether star**
+* **48 lingot de netherite**
+* **128 cuivre oxydé ciré**
+
 **Avantages:**
+
+* kit Archiduc
+* accès au /fly
+* 5 parchemin de quêtes <mark style="color:yellow;">**légendaire**</mark>
+* 2 parchemin de quêtes Mystères
+* <mark style="color:$warning;">**7 enchantement personnalisés aléatoire**</mark>&#x20;
+* Multiplication du prix de vente dans le shop de <mark style="color:$success;">**X1.85**</mark>
+* 9 métiers max
+* 7 clés épique
+* 20 shops joueurs max
+* 700 PM
+* 12 homes
 {% endtab %}
 {% endtabs %}
 
@@ -173,8 +261,31 @@ Il s'agit du rangs de base quand vous vous connecter sur le serveur pour la prem
 
 {% tabs %}
 {% tab title="Parangon" %}
-**Prérequis:**\
-\
+**Prérequis:**
+
+* **Argent: 20 000 000$**
+* **8 balise**
+* **24 étoile du nether**
+* **256 lingot de netherite**
+* **64 membrane de phantom**
+* **8 crâne de wither**
+
+
+
 **Avantages:**
+
+* kit Parangon
+* accès au /repair all - /tempgod (2min d'invisibilité)&#x20;
+* Vous pouvez créer 3 villes
+* 6 parchemin de quêtes <mark style="color:yellow;">**légendaire**</mark>
+* 2 parchemin de quêtes mystère
+* <mark style="color:$warning;">**8 enchantement personnalisés aléatoire**</mark>&#x20;
+* Multiplication du prix de vente dans le shop de <mark style="color:$success;">**X2**</mark>
+* 10 métiers max
+* 8 clés épique
+* 4 clés rare
+* 25 shops joueurs max ET 5 objets par shop joueur MAX
+* 750 PM
+* 14 homes
 {% endtab %}
 {% endtabs %}
