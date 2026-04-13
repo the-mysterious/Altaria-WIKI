@@ -1,6 +1,0 @@
----
-icon: scroll
----
-
-# Les parchemins
-

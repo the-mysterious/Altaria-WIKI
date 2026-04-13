@@ -12,9 +12,13 @@
 * [💲 Gagner de l'argent](introduction/gagner-de-largent.md)
 * [💴 Gagner des Altacoins](introduction/gagner-des-altacoins.md)
 
+## Artémis&#x20;
+
+* [Les PNJ](artemis/les-pnj.md)
+* [Les parchemins](artemis/les-parchemins.md)
+
 ## 🎮 Gameplay
 
-* [Les parchemins](gameplay/les-parchemins.md)
 * [Les commandes](gameplay/les-commandes.md)
 * [Les rangs F2W](gameplay/les-rangs-f2w.md)
 * [💳 Les coffres de ventes](gameplay/les-coffres-de-ventes.md)
