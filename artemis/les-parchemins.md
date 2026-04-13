@@ -7,9 +7,11 @@ icon: scroll
 
 # Les parchemins
 
+<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+
 ## kesako ??
 
-Les parchemins de quêts sont des objets spéciaux disponible en 3 niveaux de raretées différentes.
+Les parchemins de quêtes sont des objets spéciaux disponible en 3 niveaux de raretées différentes.
 
 Chacun contient une série de quêtes variées à accomplir pour obtenir des récompenses exclusive!
 
@@ -29,6 +31,8 @@ Chacun contient une série de quêtes variées à accomplir pour obtenir des ré
 
 ## Les quêtes
 
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="377"><figcaption></figcaption></figure>
+
 Chaque parchemin contient un nombre aléatoire d'étapes composées de quêtes variées telles que:
 
 * Tuer des mobs
@@ -43,9 +47,13 @@ Tu peux prendre plusieur parchemins en même temps mais si tu à la même quête
 
 ## Les Cristaux
 
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="377"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (11).png" alt="" width="386"><figcaption></figcaption></figure>
+
 Tu veux avancer okus vite?&#x20;
 
-Achète des cristaux avec la monnaie du serveur pour passer une étapes instantanélent!
+Achète des cristaux avec la monnaie du serveur pour passer une étapes instantanément!
 
 | Rareté du parchemin | cristal nécessaire | Prix    |
 | ------------------- | ------------------ | ------- |
