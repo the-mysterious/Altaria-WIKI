@@ -9,4 +9,6 @@ icon: block-question
 
 Le marchand met à votre disposition une large game de parchemins aux effets variés, pouvant apporter bonus, améliorations ou des avantages spécifique à votre progression.
 
+C'est également ce PNJ qui vous vendra de quoi passer certaines étape de parchemins.
+
 Pour plus d'information vous pouvez vous référer au: [les-parchemins.md](../les-parchemins.md "mention")
