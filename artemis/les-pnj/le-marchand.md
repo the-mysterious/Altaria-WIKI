@@ -17,3 +17,7 @@ Ces deals peuvent inclure des objets rares, des ressources utiles ou de l'équip
 Exemple de deals:
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt="" width="464"><figcaption></figcaption></figure>
+
+Les resources mis en vente par le marchand sont réinitialiser tout les jour IG.
+
+Une fois que vous aurez effectuer un achat chez le marchand vous devrez attendre 1h réelle avant de pouvoir refaire un autre achat alors choissiser bien.
