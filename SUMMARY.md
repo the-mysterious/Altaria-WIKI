@@ -12,7 +12,7 @@
 * [💲 Gagner de l'argent](introduction/gagner-de-largent.md)
 * [💴 Gagner des Altacoins](introduction/gagner-des-altacoins.md)
 
-## Artémis&#x20;
+## Artémis
 
 * [Les PNJ](artemis/les-pnj.md)
   * [Maire d'Artémis](artemis/les-pnj/maire-dartemis.md)
@@ -38,8 +38,6 @@
 * [Upgrades](la-ville/upgrades.md)
 
 ## 🆘 sos
-
-***
 
 * [Discord](discord.md)
 * [Le site web](le-site-web.md)
