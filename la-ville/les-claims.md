@@ -10,8 +10,5 @@ Vous devez ensuite exercer la commande /t claim sur un claim qui ne vous a<mark 
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-Les claims vous sont également demander pour upgrade votre vile via le `/tlevels` ainsi qu' de l'argent disponible dans la banque de ville:
+Il vous sont aussi demande pour upgrade votre ville. -> [upgrades.md](upgrades.md "mention")
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="399"><figcaption></figcaption></figure>
-
-Améillorer votre ville vous octroi des claims supplémentaire, des altacoins pour le maire ( voir [gagner-des-altacoins.md](../introduction/gagner-des-altacoins.md "mention")) ainsi qu'un multiplicateur de ressource.

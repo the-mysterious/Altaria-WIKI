@@ -5,7 +5,7 @@
 ## ℹ️ Information générale
 
 * [🗺️ Nous rejoindre](information-generale/nous-rejoindre.md)
-* [Nous soutenir](information-generale/nous-soutenir.md)
+* [💕 Nous soutenir](information-generale/nous-soutenir.md)
 
 ## 🛂 introduction
 

@@ -1,4 +1,4 @@
-# Nous soutenir
+# 💕 Nous soutenir
 
 **L'Altacoins est la monnaie&#x20;**<mark style="color:$danger;">**premium**</mark>**&#x20;du serveur, elle est utile pour acheter du cosmétique, des clés de coffre ou encore des grades (Prince, Seigneur et Empereur) !**
 
