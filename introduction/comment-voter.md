@@ -28,7 +28,7 @@ Pour recevoir vos récompenses veuillez utiliser votre pseudo EXACT
 
 <summary>Serveur Privés</summary>
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </details>
 
@@ -36,19 +36,19 @@ Pour recevoir vos récompenses veuillez utiliser votre pseudo EXACT
 
 <summary>Top serveur</summary>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="344"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt="" width="344"><figcaption></figcaption></figure>
 
 </details>
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Un message vous confirme que votre vote à bien été pris en compte vous en recevez un I-G aussi
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt="" width="395"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt="" width="395"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Le timer vous indique dans combien de temps vous pourrez revoter
@@ -58,6 +58,6 @@ Le timer vous indique dans combien de temps vous pourrez revoter
 
 #### Récompenses:
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Utilise ta clé de vote sur le box pour obtenir une récompense aléatoire.

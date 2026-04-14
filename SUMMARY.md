@@ -14,8 +14,12 @@
 
 ## Artémis&#x20;
 
-* [Les PNJ](artemis/les-pnj/README.md)
+* [Les PNJ](artemis/les-pnj.md)
   * [Maire d'Artémis](artemis/les-pnj/maire-dartemis.md)
+  * [Le marchand de quêtes](artemis/les-pnj/le-marchand-de-quetes.md)
+  * [Le marchand](artemis/les-pnj/le-marchand.md)
+  * [Le forgeron](artemis/les-pnj/le-forgeron.md)
+  * [Le messager](artemis/les-pnj/le-messager.md)
 * [Les parchemins](artemis/les-parchemins.md)
 
 ## 🎮 Gameplay

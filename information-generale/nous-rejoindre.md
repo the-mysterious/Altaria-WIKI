@@ -19,7 +19,7 @@ description: >-
 
 **Dans le menu principal, clique sur multijoueur**
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Clique sur ajouter un serveur**
 
