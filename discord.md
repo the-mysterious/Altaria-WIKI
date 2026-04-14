@@ -9,13 +9,13 @@ icon: discord
 
 Avant de commencer, assurez-vous de rejoindre notre serveur Discord accessible avec le lien suivant : [https://discord.gg/Xzb3PWKEN9](https://discord.gg/Xzb3PWKEN9)
 
-<figure><img src=".gitbook/assets/image (5) (1).png" alt="" width="156"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (1).png" alt="" width="156"><figcaption></figcaption></figure>
 
 Une fois dessus, accepter le règlement et assurez-vous de montrer tous les salons.
 
 Puis chercher le salon: **Ouvrir un ticket**&#x20;
 
-<figure><img src=".gitbook/assets/image (6) (1).png" alt="" width="205"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1) (1).png" alt="" width="205"><figcaption></figcaption></figure>
 
 Une fois cela fait, vous pouvez ouvrir un ticket.
 

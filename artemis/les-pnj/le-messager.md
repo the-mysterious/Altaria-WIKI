@@ -1,5 +1,6 @@
 ---
 description: Aleric winder
+icon: signal-messenger
 ---
 
 # Le messager

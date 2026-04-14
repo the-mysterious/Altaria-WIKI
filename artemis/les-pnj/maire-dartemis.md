@@ -1,10 +1,11 @@
 ---
 description: Donald Emberwick
+icon: user-hat-tie
 ---
 
 # Maire d'Artémis
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Le maire vous porpose de découvrir le warp ainsi qu'une partis de ses habitants à travers une première série d'objectifs introductifs.
 

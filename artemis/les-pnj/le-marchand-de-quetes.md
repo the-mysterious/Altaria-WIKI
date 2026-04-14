@@ -1,10 +1,11 @@
 ---
 description: Alaric Sombrelance
+icon: block-question
 ---
 
 # Le marchand de quêtes
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Le marchand met à votre disposition une large game de parchemins aux effets variés, pouvant apporter bonus, améliorations ou des avantages spécifique à votre progression.
 
