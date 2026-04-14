@@ -5,6 +5,7 @@
 ## ℹ️ Information générale
 
 * [🗺️ Nous rejoindre](information-generale/nous-rejoindre.md)
+* [Nous soutenir](information-generale/nous-soutenir.md)
 
 ## 🛂 introduction
 
@@ -32,8 +33,9 @@
 
 ## 🏙️ La ville
 
+* [Les commandes](la-ville/les-commandes.md)
 * [Les claims](la-ville/les-claims.md)
-* [Les ranks](la-ville/les-ranks.md)
+* [Les rangs](la-ville/les-ranks.md)
 * [💲 La banque](la-ville/la-banque.md)
 * [Upgrades](la-ville/upgrades.md)
 
