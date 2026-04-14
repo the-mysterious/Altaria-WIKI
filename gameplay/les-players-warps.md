@@ -14,7 +14,7 @@ Selon les paramètres définis, un pw peut être en libre accès (gratuit) ou mo
 
 Les pw sont accessible via la commande: `/pw`&#x20;
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="383"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="383"><figcaption></figcaption></figure>
 
 **Légende:**
 
@@ -38,11 +38,11 @@ Les pw sont accessible via la commande: `/pw`&#x20;
 Pour ce faire, rien de plus simple : taper dans votre chat la commande suivante :\
 `/pw create`
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="301"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="301"><figcaption></figcaption></figure>
 
 ## Le menu
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="380"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt="" width="380"><figcaption></figcaption></figure>
 
 Lorsque vous exécutez la commande /pw -> My warps ->, vous cliquez sur votre le menu ci-dessus s'affiche, voyant en détail ce qu'il fait.
 
@@ -54,7 +54,7 @@ Elle vous permet de vous téléporter à votre pw pratique non?
 
 Vous permet de donner une description à votre pw
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### <mark style="color:$danger;">**La porte:**</mark>
 

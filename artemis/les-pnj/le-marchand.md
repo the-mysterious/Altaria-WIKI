@@ -5,7 +5,7 @@ icon: bag-shopping
 
 # Le marchand
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Une fois la quêtes du marchand terminer, il vous propose des offres spéciales qui changent régulièrement.
 
@@ -17,7 +17,7 @@ Une fois que vous aurez effectuer un achat chez le marchand vous devrez attendre
 
 
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt="" width="387"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt="" width="387"><figcaption></figcaption></figure>
 
 Exemple de deals:
 

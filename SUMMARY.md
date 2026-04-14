@@ -15,6 +15,8 @@
 
 ## Artémis
 
+* [La mine](artemis/la-mine.md)
+* [L'améthyste cave](artemis/lamethyste-cave.md)
 * [Les PNJ](artemis/les-pnj.md)
   * [Maire d'Artémis](artemis/les-pnj/maire-dartemis.md)
   * [Le marchand de quêtes](artemis/les-pnj/le-marchand-de-quetes.md)
