@@ -31,3 +31,10 @@ icon: exclamation
 
 <figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
+## Upgrade votre ville
+
+`/tlevels`
+
+<figure><img src="../.gitbook/assets/image.png" alt="" width="381"><figcaption></figcaption></figure>
+
+Pour plus de détaille se référencer à: [les-claims.md](les-claims.md "mention")
