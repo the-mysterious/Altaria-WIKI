@@ -12,6 +12,7 @@
 * [✉️ Comment voter](introduction/comment-voter.md)
 * [💲 Gagner de l'argent](introduction/gagner-de-largent.md)
 * [💴 Gagner des Altacoins](introduction/gagner-des-altacoins.md)
+* [💳 Gagner des PM](introduction/gagner-des-pm.md)
 
 ## Artémis
 
@@ -23,6 +24,7 @@
   * [Le marchand](artemis/les-pnj/le-marchand.md)
   * [Le forgeron](artemis/les-pnj/le-forgeron.md)
   * [Le messager](artemis/les-pnj/le-messager.md)
+  * [Le boucher](artemis/les-pnj/le-boucher.md)
 * [Les parchemins](artemis/les-parchemins.md)
 
 ## 🎮 Gameplay

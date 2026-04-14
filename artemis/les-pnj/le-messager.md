@@ -17,3 +17,4 @@ Ex:
 
 <figure><img src="../../.gitbook/assets/image (21).png" alt="" width="542"><figcaption></figcaption></figure>
 
+Pour plus ample information sur les PM: [gagner-des-pm.md](../../introduction/gagner-des-pm.md "mention")
