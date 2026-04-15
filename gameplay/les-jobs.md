@@ -9,17 +9,17 @@ icon: briefcase-blank
 
 Les jobs vous permettent de:
 
-* gagnger de l'argent en effectuant des action liées à celui-ci
+* gagner de l'argent en effectuant des action liées à celui-ci
 * progresser en niveaux pour une meilleur rémunération
-* Débloque des binus et récompense via la boutique de jibs
+* Débloque des bonus et récompense via la boutique de jibs
 
 {% hint style="info" %}
-Tu débute avec seulement 1 jobs mais au fur et à mesur que tu augmente t'est rangs tu pourras en avoir plusieur simultanément
+Tu débute avec seulement 1 jobs mais au fur et à mesure que tu augmente t'est rangs tu pourras en avoir plusieur simultanément
 {% endhint %}
 
 ## Rejoindre un jobs
 
-Pour consulter la liste des jobs disponnnoble ( ainsi que leurs récompense) effectue la commande: `/jobs`&#x20;
+Pour consulter la liste des jobs disponnnoble ( ainsi que leurs récompense) effectue la commande: `/jobs`
 
 <figure><img src="../.gitbook/assets/image (12).png" alt="" width="392"><figcaption></figcaption></figure>
 
