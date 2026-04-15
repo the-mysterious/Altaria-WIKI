@@ -25,6 +25,10 @@ Pour consulter la liste des jobs disponnnoble ( ainsi que leurs récompense) eff
 
 <figure><img src="../.gitbook/assets/image (13).png" alt="" width="383"><figcaption></figcaption></figure>
 
+Au début de votre aventure vous pourrez ne rejoindre qu'un seul métier, débloquer des rangs (/rangs) vous permet de débloquer plus de métier en simultané.
+
+Info : Lorsque vous quitter un job vous perdrez seulement 5% de sa progression vous pourrez donc le reprendre plus tard sans recommancer de zero.
+
 ## Progression et Niveaux
 
 Chaque métier possède son propre système de niveaux. Plus tu effectue des actions liées à celui-ci, plus tu gagne de l'experience et de l'argent.
